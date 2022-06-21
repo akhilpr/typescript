@@ -3,10 +3,10 @@
 . It is a super set of javascript.Which adds more power to javascript like
 
 Typing
-class
-interface
-error catch
-object oriented
+#class
+#interface
+#error catch
+#object oriented
 
 # Setup
 go to your folder
