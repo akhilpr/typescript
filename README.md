@@ -22,5 +22,5 @@ type => npm install -g typescript --save
 
  tsc filename.ts <br>
  node filename.js <br>
- example :  tsc index.ts
+ example :  tsc index.ts <br>
             node index.js
