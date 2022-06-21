@@ -2,8 +2,8 @@
 
 . It is a super set of javascript.Which adds more power to javascript like
 
-Typing
-#class
+# Typing
+class <br>
 #interface
 #error catch
 #object oriented
