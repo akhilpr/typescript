@@ -1,22 +1,26 @@
-what is type script ?
+# what is type script ?
 
-It is a super set of javascript.Which adds more power to javascript like
+. It is a super set of javascript.Which adds more power to javascript like
 
 Typing
 class
 interface
 error catch
-Install type Script
+object oriented
 
+# Setup
+go to your folder
+
+type => git init
 
 https://www.npmjs.com/package/typescript
 
-command
-npm install -g typescript
+type => npm install -g typescript --save
 
-How to run 
 
- node filename.ts
+# How to run 
 
- example :  node index.ts
-
+ tsc filename.ts
+ node filename.js
+ example :  tsc index.ts
+            node index.js
