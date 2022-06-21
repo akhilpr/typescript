@@ -4,9 +4,9 @@
 
 # Typing
 class <br>
-#interface
-#error catch
-#object oriented
+interface <br>
+error catch <br>
+object oriented <br>
 
 # Setup
 go to your folder
