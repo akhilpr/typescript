@@ -20,7 +20,7 @@ type => npm install -g typescript --save
 
 # How to run 
 
- tsc filename.ts
- node filename.js
+ tsc filename.ts <br>
+ node filename.js <br>
  example :  tsc index.ts
             node index.js
